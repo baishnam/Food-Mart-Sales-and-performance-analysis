@@ -10,6 +10,4 @@ Example: The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development.
 4. Data Source
 Data on Kaggle ~60,000 stores in USA, Canada, Mexico, including details on sales, various expenses, product categories, demographic information.
-5. Features / Highlights
-Example: • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
-https://github.com/baishnam/Food-Mart-Sales-and-performance-analysis/blob/main/Sales%20analysis.png
+Example: https://github.com/baishnam/Food-Mart-Sales-and-performance-analysis/blob/main/Sales%20analysis.png
